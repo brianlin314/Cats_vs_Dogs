@@ -14,7 +14,7 @@ You can get dataset from [Dogs vs. Cats](https://www.kaggle.com/competitions/dog
             └── 1.jpg
             ...
         └── Dog
-    └── training_dataset
+    └── inference_dataset
         └── Cat
         └── Dog
 ```

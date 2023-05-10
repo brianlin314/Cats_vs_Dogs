@@ -1,6 +1,10 @@
 # Cats_vs_Dogs
 Using Pytorch for Cats and Dogs recognition.
+
 You can get dataset from [Dogs vs. Cats](https://www.kaggle.com/competitions/dogs-vs-cats/data).
+
+https://github.com/brianlin314/Cats_vs_Dogs/blob/main/assets/cat.jpg
+https://github.com/brianlin314/Cats_vs_Dogs/blob/main/assets/dog.jpg
 ## Data Structure
 ```
 ├── cat_dog_dataset
